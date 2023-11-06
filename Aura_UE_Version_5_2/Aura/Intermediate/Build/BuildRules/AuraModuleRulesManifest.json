@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Element_Magician\\Aura_UE_Version_5_2\\Aura\\Source\\Aura\\Aura.Build.cs",
+		"C:\\Element_Magician\\Aura_UE_Version_5_2\\Aura\\Source\\Aura.Target.cs",
+		"C:\\Element_Magician\\Aura_UE_Version_5_2\\Aura\\Source\\AuraEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.0"
+}

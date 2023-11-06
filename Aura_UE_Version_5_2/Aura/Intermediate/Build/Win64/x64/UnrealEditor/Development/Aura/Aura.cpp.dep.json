@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\element_magician\\aura_ue_version_5_2\\aura\\source\\aura\\aura.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\element_magician\\aura_ue_version_5_2\\aura\\intermediate\\build\\win64\\x64\\auraeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\element_magician\\aura_ue_version_5_2\\aura\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\aura\\definitions.aura.h",
+            "c:\\element_magician\\aura_ue_version_5_2\\aura\\source\\aura\\aura.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
